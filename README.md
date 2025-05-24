@@ -30,7 +30,7 @@ O sistema está organizado em classes que representam os principais conceitos do
 1. Certifique-se de ter Python instalado (versão 3.6 ou superior recomendada)
 2. Execute o arquivo principal:
    ```
-   python nome_do_arquivo.py
+   python app.py
    ```
 3. Siga o menu interativo para utilizar as funcionalidades do sistema
 
